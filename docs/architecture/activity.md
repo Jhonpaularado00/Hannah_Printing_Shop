@@ -1,7 +1,7 @@
 # 4. UML Activity Diagram — Submit Printing Request to Pickup
 
 **Scope:** Core workflow from customer submission through staff processing and in-shop pickup.
-
+ 
 ```mermaid
 flowchart TD
     Start((Start)) --> C1
