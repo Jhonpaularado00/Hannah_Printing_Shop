@@ -1,5 +1,5 @@
 # 7. UML State Machine Diagram — PrintingRequest Status
-
+ 
 **Scope:** Lifecycle of the main entity, `PrintingRequest`. State names correspond to the `RequestStatus` enumeration in `class.md`.
 
 ```mermaid
