@@ -5,7 +5,7 @@
 ```mermaid
 flowchart LR
     Customer[Customer]
-    Staff[Shop Staff]
+    Staff[Shop Staff] 
     Admin[Administrator]
 
     subgraph System["Hannah Printing Shop System"]
