@@ -1,4 +1,4 @@
-# 9. UML Component Diagram — Application/API Components
+# 9. UML Component Diagram — Application/API Components 
 
 **Scope:** Main application components, their interfaces, and dependencies. External services are not assumed in this MVP.
 
