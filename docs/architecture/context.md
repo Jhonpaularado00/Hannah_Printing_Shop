@@ -1,6 +1,6 @@
 # 1. C4 System Context Diagram — Hannah Printing Shop System
 
-**Scope:** People and external systems interacting with the Hannah Printing Shop System.
+**Scope:** People and external systems interacting with the Hannah Printing Shop System. 
 
 ```mermaid
 flowchart LR
