@@ -1,5 +1,5 @@
 # 11. Entity Relationship Diagram (Draft) — Hannah Printing Shop
-
+ 
 **Scope:** Draft relational tables derived from the class diagram. Fields containing personally identifiable information (PII) are marked `[PII]`.
 
 ```mermaid
