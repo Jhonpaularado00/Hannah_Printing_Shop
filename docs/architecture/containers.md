@@ -1,4 +1,4 @@
-# 2. C4 Container Diagram — Hannah Printing Shop System
+# 2. C4 Container Diagram — Hannah Printing Shop System 
 
 **Scope:** Logical application containers and the main communication paths. Technology choices are provisional and must be confirmed against the actual repository.
 
