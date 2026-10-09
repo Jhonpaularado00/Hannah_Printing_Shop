@@ -1,6 +1,6 @@
 # 10. UML Deployment Diagram — Provisional
 
-**Scope:** Provisional runtime nodes and artifacts. Generic hosting names are used because the final provider and implementation settings must be confirmed.
+**Scope:** Provisional runtime nodes and artifacts. Generic hosting names are used because the final provider and implementation settings must be confirmed. 
 
 ```mermaid
 flowchart LR
