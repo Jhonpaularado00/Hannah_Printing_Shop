@@ -1,4 +1,4 @@
-# 6. UML Class Diagram — Hannah Printing Shop Domain Model
+# 6. UML Class Diagram — Hannah Printing Shop Domain Model 
 
 **Scope:** Core domain classes, typed attributes, associations, multiplicities, and status enumerations.
 
