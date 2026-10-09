@@ -2,7 +2,7 @@
 
 **Scope:** A higher-risk workflow involving uploaded files, request persistence, status changes, and payment recording.
 
-```mermaid
+```mermaid 
 sequenceDiagram
     actor Customer
     participant UI as Web UI
